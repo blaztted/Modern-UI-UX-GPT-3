@@ -16,3 +16,21 @@
   justify-content: center;
   align-items: center;
 }
+
+@media screen and (max-width: 700px) {
+  .gpt3__brand div img {
+    min-width: 70px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .gpt3__brand div img {
+    min-width: 50px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .gpt3__brand div img {
+    min-width: 38px;
+  }
+}
