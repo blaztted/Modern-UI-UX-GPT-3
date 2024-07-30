@@ -6,6 +6,8 @@
 
   padding: 2rem;
   margin: 4rem;
+  margin-bottom: 10rem;
+  margin-top: 10rem;
   border-radius: 1rem;
   background: var(--gradient-bar);
 }
