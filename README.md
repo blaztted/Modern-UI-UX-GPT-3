@@ -2,7 +2,7 @@
 
 This project can be found deployed [HERE](http://blaztted.github.io/Modern-UI-UX-GPT-3).
 
-![web intro]()
+<img src="./src/assets/print.png" alt="web intro" width="800"/>
 
 ## Description
 
