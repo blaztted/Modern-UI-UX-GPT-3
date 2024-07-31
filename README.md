@@ -8,15 +8,15 @@ This project can be found deployed [HERE](http://blaztted.github.io/Modern-UI-UX
 
 This project was developed with the goal of enhancing my skills in the following areas:
 
-- React Functional Components: Focused on improving the reusability and modularity of components.
-- React File and Folder Structure: Organized files and folders to follow best practices for maintainability and scalability.
-- Fundamental CSS Properties: Mastered the use of Flexbox and Grid for layout design.
-- Responsive Design: Implemented perfectly placed media queries to ensure satisfactory responsiveness across almost all device
+- **React Functional Components:** Focused on improving the reusability and modularity of components.
+- **React File and Folder Structure:** Organized files and folders to follow best practices for maintainability and scalability.
+- **Fundamental CSS Properties:** Mastered the use of Flexbox and Grid for layout design.
+- **Responsive Design:** Implemented perfectly placed media queries to ensure satisfactory responsiveness across almost all device
 
 Built using:
 
-- Front-end library: React
-- CSS animations library: Animista
+- Front-end library: **React**
+- CSS animations library: **Animista**
 
 ## INSTALLATION
 
