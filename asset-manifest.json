@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Modern-UI-UX-GPT-3/static/css/main.4c1874b2.css",
+    "main.js": "/Modern-UI-UX-GPT-3/static/js/main.733bbf33.js",
+    "static/media/ai.png": "/Modern-UI-UX-GPT-3/static/media/ai.b39f6903afaa14cab73b.png",
+    "static/media/possibility.png": "/Modern-UI-UX-GPT-3/static/media/possibility.d7ba802b95a7eae0cbc1.png",
+    "static/media/blog01.png": "/Modern-UI-UX-GPT-3/static/media/blog01.628de21e7362225dd180.png",
+    "static/media/blog03.png": "/Modern-UI-UX-GPT-3/static/media/blog03.30b4de58c4dfed4d1654.png",
+    "static/media/blog04.png": "/Modern-UI-UX-GPT-3/static/media/blog04.9985ba3c4132e04951e0.png",
+    "static/media/blog05.png": "/Modern-UI-UX-GPT-3/static/media/blog05.3bd76426a76f73e50544.png",
+    "static/media/blog02.png": "/Modern-UI-UX-GPT-3/static/media/blog02.d18219ecfaee4860bf4e.png",
+    "static/media/people.png": "/Modern-UI-UX-GPT-3/static/media/people.c11ae84c386bce9223af.png",
+    "static/media/dropbox.png": "/Modern-UI-UX-GPT-3/static/media/dropbox.82f375cac5decf9cb393.png",
+    "static/media/atlassian.png": "/Modern-UI-UX-GPT-3/static/media/atlassian.799a761889177e604be8.png",
+    "static/media/logo.svg": "/Modern-UI-UX-GPT-3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/Modern-UI-UX-GPT-3/index.html",
+    "main.4c1874b2.css.map": "/Modern-UI-UX-GPT-3/static/css/main.4c1874b2.css.map",
+    "main.733bbf33.js.map": "/Modern-UI-UX-GPT-3/static/js/main.733bbf33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1874b2.css",
+    "static/js/main.733bbf33.js"
+  ]
+}
