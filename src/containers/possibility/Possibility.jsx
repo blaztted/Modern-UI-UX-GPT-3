@@ -13,9 +13,8 @@ const Possibility = () => (
         The possibilities are <br /> beyond your imagination
       </h1>
       <p>
-        Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise
-        blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years
-        to order allow asked of.
+        Explore our cutting-edge research, innovative applications, and collaborative projects, and
+        discover how we are shaping the future with AI.
       </p>
       <h4>Request Early Access to Get Started</h4>
     </div>
